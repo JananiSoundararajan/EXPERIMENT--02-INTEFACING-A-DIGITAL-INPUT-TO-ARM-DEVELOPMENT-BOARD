@@ -92,9 +92,9 @@ int main(void)
 ```
 
 ## Output :
-### SWITCH OFF:
+### LED OFF:
 ![SWITCH OFF](https://github.com/JananiSoundararajan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477549/4a13bb10-f134-4f0f-a7ee-937125e87b7a)
-### SWITCH ON:
+### LED ON:
 ![SWITCH ON](https://github.com/JananiSoundararajan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119477549/5bde5268-cfb7-4eb0-b3e4-348c9caf23a6)
  
 ## Result :
